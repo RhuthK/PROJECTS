@@ -1,0 +1,137 @@
+db,Age,count
+Cassandra,18-24 years old,0.0
+Cassandra,25-34 years old,0.0
+Cassandra,35-44 years old,0.0
+Cassandra,45-54 years old,0.0
+Cassandra,55-64 years old,0.0
+Cassandra,65 years or older,0.0
+Cassandra,Prefer not to say,0.0
+Cassandra,Under 18 years old,19.0
+Cloud Firestore,18-24 years old,0.0
+Cloud Firestore,25-34 years old,0.0
+Cloud Firestore,35-44 years old,0.0
+Cloud Firestore,45-54 years old,0.0
+Cloud Firestore,55-64 years old,0.0
+Cloud Firestore,65 years or older,0.0
+Cloud Firestore,Prefer not to say,0.0
+Cloud Firestore,Under 18 years old,16.0
+Cosmos DB,18-24 years old,0.0
+Cosmos DB,25-34 years old,0.0
+Cosmos DB,35-44 years old,389.0
+Cosmos DB,45-54 years old,177.0
+Cosmos DB,55-64 years old,53.0
+Cosmos DB,65 years or older,0.0
+Cosmos DB,Prefer not to say,0.0
+Cosmos DB,Under 18 years old,0.0
+Dynamodb,18-24 years old,0.0
+Dynamodb,25-34 years old,970.0
+Dynamodb,35-44 years old,613.0
+Dynamodb,45-54 years old,202.0
+Dynamodb,55-64 years old,0.0
+Dynamodb,65 years or older,7.0
+Dynamodb,Prefer not to say,4.0
+Dynamodb,Under 18 years old,0.0
+Elasticsearch,18-24 years old,574.0
+Elasticsearch,25-34 years old,1611.0
+Elasticsearch,35-44 years old,1017.0
+Elasticsearch,45-54 years old,353.0
+Elasticsearch,55-64 years old,84.0
+Elasticsearch,65 years or older,0.0
+Elasticsearch,Prefer not to say,6.0
+Elasticsearch,Under 18 years old,0.0
+Firebase Realtime Database,18-24 years old,327.0
+Firebase Realtime Database,25-34 years old,0.0
+Firebase Realtime Database,35-44 years old,0.0
+Firebase Realtime Database,45-54 years old,0.0
+Firebase Realtime Database,55-64 years old,0.0
+Firebase Realtime Database,65 years or older,0.0
+Firebase Realtime Database,Prefer not to say,0.0
+Firebase Realtime Database,Under 18 years old,18.0
+MariaDB,18-24 years old,504.0
+MariaDB,25-34 years old,1162.0
+MariaDB,35-44 years old,861.0
+MariaDB,45-54 years old,395.0
+MariaDB,55-64 years old,112.0
+MariaDB,65 years or older,17.0
+MariaDB,Prefer not to say,0.0
+MariaDB,Under 18 years old,26.0
+Microsoft Access,18-24 years old,0.0
+Microsoft Access,25-34 years old,0.0
+Microsoft Access,35-44 years old,0.0
+Microsoft Access,45-54 years old,0.0
+Microsoft Access,55-64 years old,0.0
+Microsoft Access,65 years or older,7.0
+Microsoft Access,Prefer not to say,0.0
+Microsoft Access,Under 18 years old,0.0
+Microsoft SQL Server,18-24 years old,495.0
+Microsoft SQL Server,25-34 years old,1537.0
+Microsoft SQL Server,35-44 years old,1325.0
+Microsoft SQL Server,45-54 years old,705.0
+Microsoft SQL Server,55-64 years old,245.0
+Microsoft SQL Server,65 years or older,25.0
+Microsoft SQL Server,Prefer not to say,5.0
+Microsoft SQL Server,Under 18 years old,0.0
+MongoDB,18-24 years old,1220.0
+MongoDB,25-34 years old,2499.0
+MongoDB,35-44 years old,1242.0
+MongoDB,45-54 years old,468.0
+MongoDB,55-64 years old,115.0
+MongoDB,65 years or older,13.0
+MongoDB,Prefer not to say,6.0
+MongoDB,Under 18 years old,55.0
+MySQL,18-24 years old,1168.0
+MySQL,25-34 years old,2612.0
+MySQL,35-44 years old,1513.0
+MySQL,45-54 years old,627.0
+MySQL,55-64 years old,191.0
+MySQL,65 years or older,26.0
+MySQL,Prefer not to say,9.0
+MySQL,Under 18 years old,58.0
+Oracle,18-24 years old,0.0
+Oracle,25-34 years old,0.0
+Oracle,35-44 years old,0.0
+Oracle,45-54 years old,0.0
+Oracle,55-64 years old,83.0
+Oracle,65 years or older,8.0
+Oracle,Prefer not to say,4.0
+Oracle,Under 18 years old,0.0
+PostgreSQL,18-24 years old,2085.0
+PostgreSQL,25-34 years old,5263.0
+PostgreSQL,35-44 years old,3228.0
+PostgreSQL,45-54 years old,1171.0
+PostgreSQL,55-64 years old,316.0
+PostgreSQL,65 years or older,30.0
+PostgreSQL,Prefer not to say,11.0
+PostgreSQL,Under 18 years old,89.0
+Redis,18-24 years old,1049.0
+Redis,25-34 years old,2804.0
+Redis,35-44 years old,1811.0
+Redis,45-54 years old,558.0
+Redis,55-64 years old,103.0
+Redis,65 years or older,9.0
+Redis,Prefer not to say,7.0
+Redis,Under 18 years old,43.0
+SQLite,18-24 years old,1131.0
+SQLite,25-34 years old,2581.0
+SQLite,35-44 years old,1644.0
+SQLite,45-54 years old,647.0
+SQLite,55-64 years old,194.0
+SQLite,65 years or older,19.0
+SQLite,Prefer not to say,7.0
+SQLite,Under 18 years old,72.0
+Snowflake,18-24 years old,0.0
+Snowflake,25-34 years old,0.0
+Snowflake,35-44 years old,0.0
+Snowflake,45-54 years old,0.0
+Snowflake,55-64 years old,0.0
+Snowflake,65 years or older,0.0
+Snowflake,Prefer not to say,3.0
+Snowflake,Under 18 years old,0.0
+Supabase,18-24 years old,460.0
+Supabase,25-34 years old,730.0
+Supabase,35-44 years old,0.0
+Supabase,45-54 years old,0.0
+Supabase,55-64 years old,0.0
+Supabase,65 years or older,0.0
+Supabase,Prefer not to say,0.0
+Supabase,Under 18 years old,28.0
