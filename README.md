@@ -1,4 +1,4 @@
-Welcome to my PROJECTS repository—a centralized hub for all my data-driven projects, analyses, and explorations. This repository serves as a structured collection of my work in data analysis, visualization, machine learning, and automation, showcasing my technical skills and problem-solving approach.
+Welcome to my PROJECTS repository: a centralized hub for all my data-driven projects, analyses, and explorations. This repository serves as a structured collection of my work in data analysis, visualization, machine learning, and automation, showcasing my technical skills and problem-solving approach.
 
 What You’ll Find Here
 Each project is organized into its own dedicated folder, containing:
