@@ -11,7 +11,8 @@ Each project is organized into its own dedicated folder, containing:
 
 ✅ Key Findings & Insights – Summaries of analytical outcomes and potential applications.
 
-Objectives
+Objectives:
+
 Apply data science techniques to real-world problems.
 
 Explore trends and patterns through visualization.
